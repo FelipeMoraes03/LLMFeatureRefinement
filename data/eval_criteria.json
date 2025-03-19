@@ -1,0 +1,90 @@
+{
+    "super_feature_relation": [
+        {
+            "rating": "Sub-feature",
+            "description": "A feature that is subordinated to the root feature."
+        },
+        {
+            "rating": "Sibling feature",
+            "description": "A feature that is at the same level as the root feature."
+        },
+        {
+            "rating": "Super feature",
+            "description": "A feature that is more general or larger than the root feature."
+        },
+        {
+            "rating": "Identical feature",
+            "description": "A feature that is identical to the root feature."
+        },
+        {
+            "rating": "Other",
+            "description": "A feature that does not fit in the above categories."
+        }
+    ],
+    "relevance": [
+        {
+            "rating": 5, 
+            "description": "Highly relevant and a logical extension of the root feature"
+        },
+        {
+            "rating": 4, 
+            "description": "Mostly relevant and logically connected to the root feature"
+        },
+        {
+            "rating": 3, 
+            "description": "Moderately relevant with the root feature, but may not be for the same purpose"
+        },
+        {
+            "rating": 2, 
+            "description": "Somewhat relevant with the root feature, because they are in the same app category"
+        },
+        {
+            "rating": 1, 
+            "description": "Not relevant to the root feature at all"
+        }
+    ],
+    "clarity": [
+        {
+            "rating": 5,
+            "description": "Very clear and easily understandable"
+        },
+        {
+            "rating": 4,
+            "description": "Mostly clear but may have some minor syntax issues"
+        },
+        {
+            "rating": 3,
+            "description": "Somewhat clear but may have some ambiguities or too long"
+        },
+        {
+            "rating": 2,
+            "description": "Mostly unclear and somewhat difficult to understand"
+        },
+        {
+            "rating": 1,
+            "description": "Very unclear or irrelevant to the sub-feature’s name"
+        }
+    ],
+    "feasibility": [
+        {
+            "rating": 5,
+            "description": "Feasible and has known examples in existing apps"
+        },
+        {
+            "rating": 4,
+            "description": "Feasible but lacks examples from existing apps"
+        },
+        {
+            "rating": 3,
+            "description": "Probably feasible but has some uncertainties"
+        },
+        {
+            "rating": 2,
+            "description": "Probably not feasible"
+        },
+        {
+            "rating": 1,
+            "description": "Not feasible"
+        }
+    ]
+}
