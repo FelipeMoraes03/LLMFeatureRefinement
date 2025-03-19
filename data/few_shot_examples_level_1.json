@@ -1,0 +1,78 @@
+[
+    {
+      "feature": "User Profile Customization",
+      "sub_features": [
+        {
+          "sub_feature": "Profile Picture Upload",
+          "description": "Allows users to upload and change their profile picture."
+        },
+        {
+          "sub_feature": "Bio and Description",
+          "description": "Users can add a short bio or description to personalize their profile."
+        },
+        {
+          "sub_feature": "Theme Customization",
+          "description": "Enables users to select different themes or color schemes for their profile."
+        },
+        {
+          "sub_feature": "Privacy Settings",
+          "description": "Users can control who can see their profile details."
+        },
+        {
+          "sub_feature": "Social Media Links",
+          "description": "Allows users to add links to their social media accounts."
+        }
+      ]
+    },
+    {
+      "feature": "In-App Messaging",
+      "sub_features": [
+        {
+          "sub_feature": "Real-time Chat",
+          "description": "Enables users to send and receive messages instantly."
+        },
+        {
+          "sub_feature": "Read Receipts",
+          "description": "Shows whether the recipient has read a message."
+        },
+        {
+          "sub_feature": "Typing Indicators",
+          "description": "Displays when another user is typing a message."
+        },
+        {
+          "sub_feature": "Message Reactions",
+          "description": "Allows users to react to messages with emojis."
+        },
+        {
+          "sub_feature": "Group Chats",
+          "description": "Supports creating chat groups with multiple users."
+        }
+      ]
+    },
+    {
+      "feature": "Push Notifications",
+      "sub_features": [
+        {
+          "sub_feature": "Message Alerts",
+          "description": "Notifies users when they receive a new message."
+        },
+        {
+          "sub_feature": "Event Reminders",
+          "description": "Reminds users of upcoming events or deadlines."
+        },
+        {
+          "sub_feature": "Friend Requests",
+          "description": "Notifies users when they receive a friend request."
+        },
+        {
+          "sub_feature": "App Updates",
+          "description": "Alerts users when a new version of the app is available."
+        },
+        {
+          "sub_feature": "Promotional Notifications",
+          "description": "Sends promotional offers or news updates."
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,111 @@
+[
+    {
+      "super_feature": "User Management",
+      "super_feature_description": "Handles all aspects of user accounts, including authentication, profiles, permissions, and security.",
+      "siblings_features": [
+        "User Authentication",
+        "Profile Management",
+        "Access Control",
+        "User Activity Logging",
+        "User Notifications",
+        "User Preferences"
+      ],
+      "feature": "User Authentication",
+      "feature_description": "Handles user login and authentication.",
+      "sub_features": [
+        {
+          "sub_feature": "Email and Password Login",
+          "description": "Allows users to authenticate using their email and a password."
+        },
+        {
+          "sub_feature": "OAuth Integration",
+          "description": "Supports authentication via Google, Facebook, and other providers."
+        },
+        {
+          "sub_feature": "Multi-Factor Authentication (MFA)",
+          "description": "Enhances security by requiring a second authentication step."
+        },
+        {
+          "sub_feature": "Session Management",
+          "description": "Handles user sessions and automatic logouts."
+        },
+        {
+          "sub_feature": "Password Recovery",
+          "description": "Enables users to reset their password via email or SMS."
+        }
+      ]
+    },
+    {
+      "super_feature": "Payment Processing",
+      "super_feature_description": "Handles all transactions, including subscriptions, one-time purchases, refunds, and financial reporting.",
+      "siblings_features": [
+        "Subscription Management",
+        "Invoice Generation",
+        "Refund Processing",
+        "Payment Gateway Integration",
+        "Fraud Detection",
+        "Financial Reporting"
+      ],
+      "feature": "Subscription Management",
+      "feature_description": "Manages user subscriptions, including plan upgrades and downgrades.",
+      "sub_features": [
+        {
+          "sub_feature": "Plan Selection",
+          "description": "Allows users to choose a subscription plan."
+        },
+        {
+          "sub_feature": "Recurring Payments",
+          "description": "Automates monthly or annual payments."
+        },
+        {
+          "sub_feature": "Trial Period Handling",
+          "description": "Manages free trial periods before billing starts."
+        },
+        {
+          "sub_feature": "Subscription Cancellation",
+          "description": "Enables users to cancel their subscriptions."
+        },
+        {
+          "sub_feature": "Billing Notifications",
+          "description": "Sends email alerts for upcoming payments or failed transactions."
+        }
+      ]
+    },
+    {
+      "super_feature": "Content Management",
+      "super_feature_description": "Handles content creation, editing, organization, and access control.",
+      "siblings_features": [
+        "Content Creation",
+        "Media Management",
+        "Access Control",
+        "Content Approval Workflow",
+        "Version Control",
+        "SEO Optimization"
+      ],
+      "feature": "Content Creation",
+      "feature_description": "Allows users to create and edit content for the platform.",
+      "sub_features": [
+        {
+          "sub_feature": "Rich Text Editor",
+          "description": "Provides a WYSIWYG editor for text formatting and multimedia embedding."
+        },
+        {
+          "sub_feature": "Content Drafting",
+          "description": "Allows users to save drafts before publishing."
+        },
+        {
+          "sub_feature": "Content Templates",
+          "description": "Provides predefined templates for structuring content."
+        },
+        {
+          "sub_feature": "Collaboration Features",
+          "description": "Supports multiple users editing the same content with real-time updates."
+        },
+        {
+          "sub_feature": "Content Scheduling",
+          "description": "Allows users to schedule content for automatic publishing."
+        }
+      ]
+    }
+  ]
+  
