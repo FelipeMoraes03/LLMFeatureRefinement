@@ -1,0 +1,18 @@
+[
+    {
+        "feature": "Travel Planner",
+        "description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities."
+    },
+    {
+        "feature": "Criminal Alert",
+        "description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety."
+    },
+    {
+        "feature": "Driver Guardian",
+        "description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected."
+    },
+    {
+        "feature": "Laugh evaluation",
+        "description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions."
+    }
+]

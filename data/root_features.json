@@ -39,7 +39,7 @@
         "feature": "Anti Smartphone Addiction",
         "description": "Monitor and manage the users' smartphone usage with customizable time restrictions and alerts, helping them track screen time and prevent overuse."
     },
-        {
+    {
         "feature": "Driver Guardian",
         "description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected."
     },
