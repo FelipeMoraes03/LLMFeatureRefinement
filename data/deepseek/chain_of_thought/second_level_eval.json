@@ -1,0 +1,1402 @@
+[
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Flight Booking",
+        "super_feature_description": "Allows users to search for, compare, and book flights from various airlines, specifying dates, destinations, and passenger information.",
+        "feature": "Flight Search",
+        "description": "Enable users to search for flights based on origin, destination, dates, and passenger count.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Flight Booking",
+        "super_feature_description": "Allows users to search for, compare, and book flights from various airlines, specifying dates, destinations, and passenger information.",
+        "feature": "Flight Comparison",
+        "description": "Allow users to compare flight options from different airlines based on price, duration, layovers, and other relevant factors.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Flight Booking",
+        "super_feature_description": "Allows users to search for, compare, and book flights from various airlines, specifying dates, destinations, and passenger information.",
+        "feature": "Airline Selection and Flight Details",
+        "description": "Provide detailed information about each flight, including airline, flight number, aircraft type, and baggage allowance, enabling users to make informed decisions.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Flight Booking",
+        "super_feature_description": "Allows users to search for, compare, and book flights from various airlines, specifying dates, destinations, and passenger information.",
+        "feature": "Passenger Information Input",
+        "description": "Enable users to securely enter passenger details, including names, dates of birth, and contact information, required for flight booking.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Flight Booking",
+        "super_feature_description": "Allows users to search for, compare, and book flights from various airlines, specifying dates, destinations, and passenger information.",
+        "feature": "Secure Payment Processing for Flight Tickets",
+        "description": "Integrate secure payment gateways to process flight ticket purchases, supporting various payment methods such as credit/debit cards and digital wallets.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Personalized Itinerary Creation",
+        "super_feature_description": "Enables users to create daily trip itineraries, including adding booked flights, attractions, restaurant reservations, and scheduled activities based on preferences and interests.",
+        "feature": "Smart Itinerary Suggestion",
+        "description": "Suggests itinerary items based on user preferences, travel dates, and location, using AI to optimize the schedule.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Personalized Itinerary Creation",
+        "super_feature_description": "Enables users to create daily trip itineraries, including adding booked flights, attractions, restaurant reservations, and scheduled activities based on preferences and interests.",
+        "feature": "Manual Itinerary Builder",
+        "description": "Allows users to manually add, remove, and reorder activities, restaurants, and attractions within the itinerary.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Personalized Itinerary Creation",
+        "super_feature_description": "Enables users to create daily trip itineraries, including adding booked flights, attractions, restaurant reservations, and scheduled activities based on preferences and interests.",
+        "feature": "Integration with Booking Services",
+        "description": "Automatically imports booked flights, accommodations, and reservations into the itinerary.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Personalized Itinerary Creation",
+        "super_feature_description": "Enables users to create daily trip itineraries, including adding booked flights, attractions, restaurant reservations, and scheduled activities based on preferences and interests.",
+        "feature": "Collaborative Itinerary Planning",
+        "description": "Enables multiple users to collaborate on and edit the same itinerary, facilitating group travel planning.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Personalized Itinerary Creation",
+        "super_feature_description": "Enables users to create daily trip itineraries, including adding booked flights, attractions, restaurant reservations, and scheduled activities based on preferences and interests.",
+        "feature": "Itinerary Sharing and Export",
+        "description": "Provides options to share itineraries with others via link or export them in various formats (e.g., PDF, calendar) for offline access.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Restaurant and Activity Recommendations",
+        "super_feature_description": "Provides recommendations for restaurants, attractions, and activities based on user location, preferences, past behavior, and user reviews. Includes filtering and searching options.",
+        "feature": "Location-Based Recommendations",
+        "description": "Suggests restaurants, attractions, and activities nearby the user's current location or a specified destination.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Restaurant and Activity Recommendations",
+        "super_feature_description": "Provides recommendations for restaurants, attractions, and activities based on user location, preferences, past behavior, and user reviews. Includes filtering and searching options.",
+        "feature": "Preference-Based Filtering",
+        "description": "Allows users to filter recommendations based on dietary restrictions, cuisine preferences, price range, activity type, and other relevant criteria.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Restaurant and Activity Recommendations",
+        "super_feature_description": "Provides recommendations for restaurants, attractions, and activities based on user location, preferences, past behavior, and user reviews. Includes filtering and searching options.",
+        "feature": "Personalized Recommendations Engine",
+        "description": "Uses machine learning to analyze user's past behavior, ratings, and preferences to provide personalized recommendations for restaurants and activities.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Restaurant and Activity Recommendations",
+        "super_feature_description": "Provides recommendations for restaurants, attractions, and activities based on user location, preferences, past behavior, and user reviews. Includes filtering and searching options.",
+        "feature": "Search and Discovery",
+        "description": "Enables users to search for specific restaurants, attractions, or activities using keywords, names, or categories.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Restaurant and Activity Recommendations",
+        "super_feature_description": "Provides recommendations for restaurants, attractions, and activities based on user location, preferences, past behavior, and user reviews. Includes filtering and searching options.",
+        "feature": "User Review Integration",
+        "description": "Displays user reviews and ratings for restaurants and activities, allowing users to make informed decisions based on the experiences of others.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Accommodation Booking",
+        "super_feature_description": "Allows users to search, compare and book hotels and other types of accomodation. They can be filtered by price, location, rating etc.",
+        "feature": "Accommodation Search",
+        "description": "Enables users to search for accommodations based on destination, dates, and number of guests.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Accommodation Booking",
+        "super_feature_description": "Allows users to search, compare and book hotels and other types of accomodation. They can be filtered by price, location, rating etc.",
+        "feature": "Filtering and Sorting",
+        "description": "Allows users to filter search results by price, rating, accommodation type (hotel, apartment, hostel, etc.), amenities (e.g., free Wi-Fi, pool), and other relevant criteria. Enables sorting by price, rating, or distance.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Accommodation Booking",
+        "super_feature_description": "Allows users to search, compare and book hotels and other types of accomodation. They can be filtered by price, location, rating etc.",
+        "feature": "Accommodation Details Page",
+        "description": "Displays detailed information about each accommodation, including photos, descriptions, reviews, amenities, location on a map, and cancellation policies.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Accommodation Booking",
+        "super_feature_description": "Allows users to search, compare and book hotels and other types of accomodation. They can be filtered by price, location, rating etc.",
+        "feature": "Secure Booking and Payment",
+        "description": "Facilitates secure booking and payment processing through various payment methods (credit cards, digital wallets, etc.).  Includes support for applying discounts and promotions.",
+        "feature_eval": {
+            "relationship": "Other",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "Accommodation Booking",
+        "super_feature_description": "Allows users to search, compare and book hotels and other types of accomodation. They can be filtered by price, location, rating etc.",
+        "feature": "Booking Management",
+        "description": "Allows users to view, modify, or cancel existing bookings within the app. Provides booking confirmations and reminders.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "User Reviews and Ratings",
+        "super_feature_description": "Allows users to leave reviews and ratings for restaurants, attractions, and activities, providing feedback to other users and the app developers.",
+        "feature": "Review Submission",
+        "description": "Enables users to submit written reviews with detailed descriptions of their experiences at restaurants, attractions, and during activities.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "User Reviews and Ratings",
+        "super_feature_description": "Allows users to leave reviews and ratings for restaurants, attractions, and activities, providing feedback to other users and the app developers.",
+        "feature": "Rating System",
+        "description": "Allows users to provide a numerical or star-based rating for restaurants, attractions, and activities, indicating their overall satisfaction.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "User Reviews and Ratings",
+        "super_feature_description": "Allows users to leave reviews and ratings for restaurants, attractions, and activities, providing feedback to other users and the app developers.",
+        "feature": "Review Display and Filtering",
+        "description": "Presents user reviews and ratings in a clear and organized manner, with options to filter reviews based on rating, date, or user profile.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "User Reviews and Ratings",
+        "super_feature_description": "Allows users to leave reviews and ratings for restaurants, attractions, and activities, providing feedback to other users and the app developers.",
+        "feature": "Review Moderation and Reporting",
+        "description": "Implements a system for moderating user reviews to ensure they adhere to community guidelines and allows users to report inappropriate content.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Travel Planner",
+        "root_feature_description": "Plan perfect trip from flights to personalized itineraries with this travel app that offers bookings, reviews, and recommendations for restaurants, attractions, and activities.",
+        "super_feature": "User Reviews and Ratings",
+        "super_feature_description": "Allows users to leave reviews and ratings for restaurants, attractions, and activities, providing feedback to other users and the app developers.",
+        "feature": "User Profile Review History",
+        "description": "Provides users with a personal profile section where they can view and manage their past reviews and ratings, allowing for easy editing or deletion.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Incident Reporting",
+        "super_feature_description": "Allows users to submit reports of suspicious activity or incidents, including details like location, time, description, and optional media (photos/videos).",
+        "feature": "Report Submission Form",
+        "description": "Provides a structured form for users to input incident details (location, time, description, incident type).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Incident Reporting",
+        "super_feature_description": "Allows users to submit reports of suspicious activity or incidents, including details like location, time, description, and optional media (photos/videos).",
+        "feature": "Media Upload",
+        "description": "Enables users to upload photos and videos as supporting evidence for their reports.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Incident Reporting",
+        "super_feature_description": "Allows users to submit reports of suspicious activity or incidents, including details like location, time, description, and optional media (photos/videos).",
+        "feature": "Location Services Integration",
+        "description": "Automatically detects and suggests the user's current location for easier report submission.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Incident Reporting",
+        "super_feature_description": "Allows users to submit reports of suspicious activity or incidents, including details like location, time, description, and optional media (photos/videos).",
+        "feature": "Report Categorization",
+        "description": "Allows users to categorize their reports based on the type of incident (e.g., suspicious person, theft, vandalism).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Incident Reporting",
+        "super_feature_description": "Allows users to submit reports of suspicious activity or incidents, including details like location, time, description, and optional media (photos/videos).",
+        "feature": "Report Anonymization Option",
+        "description": "Gives users the option to submit reports anonymously to protect their identity.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 5,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Real-time Alert Notifications",
+        "super_feature_description": "Provides users with immediate alerts regarding reported incidents or police activity in their defined neighborhood watch area, configurable by location and radius.",
+        "feature": "Incident-Based Alerts",
+        "description": "Sends instant notifications to users when a new incident is reported within their designated neighborhood watch area.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Real-time Alert Notifications",
+        "super_feature_description": "Provides users with immediate alerts regarding reported incidents or police activity in their defined neighborhood watch area, configurable by location and radius.",
+        "feature": "Police Activity Alerts",
+        "description": "Delivers real-time alerts regarding ongoing police operations, such as traffic stops or searches, in the user's vicinity.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Real-time Alert Notifications",
+        "super_feature_description": "Provides users with immediate alerts regarding reported incidents or police activity in their defined neighborhood watch area, configurable by location and radius.",
+        "feature": "Customizable Alert Radius",
+        "description": "Allows users to define a specific radius around their location to receive alerts only for incidents within that area.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Real-time Alert Notifications",
+        "super_feature_description": "Provides users with immediate alerts regarding reported incidents or police activity in their defined neighborhood watch area, configurable by location and radius.",
+        "feature": "Configurable Alert Frequency",
+        "description": "Enables users to adjust the frequency of alert notifications, from immediate to summarized hourly or daily updates.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4.5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Real-time Alert Notifications",
+        "super_feature_description": "Provides users with immediate alerts regarding reported incidents or police activity in their defined neighborhood watch area, configurable by location and radius.",
+        "feature": "Alert Filtering by Incident Type",
+        "description": "Provides users with the ability to filter alerts based on the type of incident, such as theft, assault, or suspicious activity, to receive only relevant notifications.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Neighborhood Watch Group Management",
+        "super_feature_description": "Enables users to create or join virtual neighborhood watch groups, facilitating communication and coordinated monitoring within specific geographic areas.",
+        "feature": "Group Creation",
+        "description": "Allows users to create new neighborhood watch groups, specifying a group name, description, and geographic boundaries.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Neighborhood Watch Group Management",
+        "super_feature_description": "Enables users to create or join virtual neighborhood watch groups, facilitating communication and coordinated monitoring within specific geographic areas.",
+        "feature": "Group Joining",
+        "description": "Enables users to find and request to join existing neighborhood watch groups based on location or group name.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Neighborhood Watch Group Management",
+        "super_feature_description": "Enables users to create or join virtual neighborhood watch groups, facilitating communication and coordinated monitoring within specific geographic areas.",
+        "feature": "Group Communication",
+        "description": "Provides a dedicated communication channel (e.g., chat, forum) within each group for sharing information and coordinating activities.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Neighborhood Watch Group Management",
+        "super_feature_description": "Enables users to create or join virtual neighborhood watch groups, facilitating communication and coordinated monitoring within specific geographic areas.",
+        "feature": "Role Management",
+        "description": "Allows group administrators to assign roles and permissions to members, such as moderator or observer.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Neighborhood Watch Group Management",
+        "super_feature_description": "Enables users to create or join virtual neighborhood watch groups, facilitating communication and coordinated monitoring within specific geographic areas.",
+        "feature": "Group Activity Scheduling",
+        "description": "Facilitates the scheduling of virtual or in-person neighborhood watch activities, such as virtual meetings, coordinated patrols, or awareness campaigns.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Activity Map",
+        "super_feature_description": "Displays a map showing reported incidents, police activity, and neighborhood watch zones, providing a visual overview of safety-related events.",
+        "feature": "Incident Heatmap Overlay",
+        "description": "Displays a heatmap overlay on the map, visually representing the density of reported incidents in different areas.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Activity Map",
+        "super_feature_description": "Displays a map showing reported incidents, police activity, and neighborhood watch zones, providing a visual overview of safety-related events.",
+        "feature": "Police Activity Markers",
+        "description": "Shows real-time markers indicating the locations of active police units and events, sourced from official channels.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Activity Map",
+        "super_feature_description": "Displays a map showing reported incidents, police activity, and neighborhood watch zones, providing a visual overview of safety-related events.",
+        "feature": "Neighborhood Watch Zone Boundaries",
+        "description": "Visually outlines the boundaries of different neighborhood watch zones, indicating areas covered by specific groups.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Activity Map",
+        "super_feature_description": "Displays a map showing reported incidents, police activity, and neighborhood watch zones, providing a visual overview of safety-related events.",
+        "feature": "Customizable Map Filters",
+        "description": "Allows users to filter the map display by incident type, time range, and neighborhood watch zone to focus on specific information.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Activity Map",
+        "super_feature_description": "Displays a map showing reported incidents, police activity, and neighborhood watch zones, providing a visual overview of safety-related events.",
+        "feature": "Interactive Incident Details",
+        "description": "Enables users to tap on incident markers to view detailed information about the reported event, including descriptions, images, and timestamps.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Police Activity Monitoring",
+        "super_feature_description": "Aggregates and presents publicly available police data (e.g., incident reports, traffic stops) within the app, allowing users to monitor official police activity in their area.",
+        "feature": "Police Incident Aggregation",
+        "description": "Automatically collect and consolidate police incident reports from official sources.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Police Activity Monitoring",
+        "super_feature_description": "Aggregates and presents publicly available police data (e.g., incident reports, traffic stops) within the app, allowing users to monitor official police activity in their area.",
+        "feature": "Data Source Management",
+        "description": "Maintain and update a list of reliable data sources for police activity information.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Police Activity Monitoring",
+        "super_feature_description": "Aggregates and presents publicly available police data (e.g., incident reports, traffic stops) within the app, allowing users to monitor official police activity in their area.",
+        "feature": "Interactive Crime Map",
+        "description": "Display police activity data on a map interface with filtering and search capabilities.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Police Activity Monitoring",
+        "super_feature_description": "Aggregates and presents publicly available police data (e.g., incident reports, traffic stops) within the app, allowing users to monitor official police activity in their area.",
+        "feature": "Statistical Analysis",
+        "description": "Provide statistical analysis of police activity data, including trends and comparisons over time.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Criminal Alert",
+        "root_feature_description": "The app allows citizens to monitor and report police activity or suspicious behavior in their neighborhood, receive incident alerts, and engage in a virtual neighborhood watch program for enhanced safety.",
+        "super_feature": "Police Activity Monitoring",
+        "super_feature_description": "Aggregates and presents publicly available police data (e.g., incident reports, traffic stops) within the app, allowing users to monitor official police activity in their area.",
+        "feature": "Activity Filtering",
+        "description": "Enable users to filter displayed police activity by type (e.g., traffic stops, arrests) and date range.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Wearable Device Integration",
+        "super_feature_description": "Enables secure and reliable connection and data synchronization with various wearable devices (e.g., smartwatches, fitness trackers) via Bluetooth or other wireless protocols. This includes device pairing, authentication, and data transfer configuration.",
+        "feature": "Device Discovery & Pairing",
+        "description": "Allows the application to discover and securely pair with compatible wearable devices via Bluetooth or other wireless protocols. Includes user-friendly pairing workflows and device authorization.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Wearable Device Integration",
+        "super_feature_description": "Enables secure and reliable connection and data synchronization with various wearable devices (e.g., smartwatches, fitness trackers) via Bluetooth or other wireless protocols. This includes device pairing, authentication, and data transfer configuration.",
+        "feature": "Secure Authentication & Authorization",
+        "description": "Implements secure authentication mechanisms to verify the identity of the wearable device and authorize data access. Protects against unauthorized device connections and data breaches.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Wearable Device Integration",
+        "super_feature_description": "Enables secure and reliable connection and data synchronization with various wearable devices (e.g., smartwatches, fitness trackers) via Bluetooth or other wireless protocols. This includes device pairing, authentication, and data transfer configuration.",
+        "feature": "Data Transfer Configuration",
+        "description": "Provides options to configure the data transfer frequency, type of data to be transferred (e.g., heart rate, skin conductance, accelerometer data), and data transfer protocols for optimal performance and battery life.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Wearable Device Integration",
+        "super_feature_description": "Enables secure and reliable connection and data synchronization with various wearable devices (e.g., smartwatches, fitness trackers) via Bluetooth or other wireless protocols. This includes device pairing, authentication, and data transfer configuration.",
+        "feature": "Connection Management & Monitoring",
+        "description": "Manages the connection status with the wearable device, monitors signal strength, and automatically reconnects in case of disconnection. Provides notifications to the user about the connection status.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Wearable Device Integration",
+        "super_feature_description": "Enables secure and reliable connection and data synchronization with various wearable devices (e.g., smartwatches, fitness trackers) via Bluetooth or other wireless protocols. This includes device pairing, authentication, and data transfer configuration.",
+        "feature": "Data Synchronization & Storage",
+        "description": "Synchronizes data from the wearable device to the mobile application and stores it securely. Includes data compression techniques to minimize storage requirements and efficient data retrieval mechanisms.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Biometric Data Monitoring & Analysis",
+        "super_feature_description": "Continuously monitors and analyzes real-time biometric data received from the wearable device, including heart rate, heart rate variability (HRV), sleep patterns, and skin conductance (for stress level detection). Employs algorithms to identify deviations from baseline and potential indicators of fatigue or stress.",
+        "feature": "Real-time Heart Rate Monitoring",
+        "description": "Continuously tracks and records the driver's heart rate data from the wearable device.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Biometric Data Monitoring & Analysis",
+        "super_feature_description": "Continuously monitors and analyzes real-time biometric data received from the wearable device, including heart rate, heart rate variability (HRV), sleep patterns, and skin conductance (for stress level detection). Employs algorithms to identify deviations from baseline and potential indicators of fatigue or stress.",
+        "feature": "Heart Rate Variability (HRV) Analysis",
+        "description": "Analyzes HRV data to assess the driver's stress levels and resilience to fatigue, identifying patterns and anomalies.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Biometric Data Monitoring & Analysis",
+        "super_feature_description": "Continuously monitors and analyzes real-time biometric data received from the wearable device, including heart rate, heart rate variability (HRV), sleep patterns, and skin conductance (for stress level detection). Employs algorithms to identify deviations from baseline and potential indicators of fatigue or stress.",
+        "feature": "Sleep Pattern Tracking & Analysis",
+        "description": "Monitors the driver's sleep patterns (duration, quality, sleep stages) leading up to the drive to identify potential sleep deprivation and its impact on alertness.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4.5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Biometric Data Monitoring & Analysis",
+        "super_feature_description": "Continuously monitors and analyzes real-time biometric data received from the wearable device, including heart rate, heart rate variability (HRV), sleep patterns, and skin conductance (for stress level detection). Employs algorithms to identify deviations from baseline and potential indicators of fatigue or stress.",
+        "feature": "Skin Conductance (Stress) Detection",
+        "description": "Measures skin conductance levels to detect changes indicative of stress or anxiety, providing an additional layer of insight into the driver's emotional state.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Biometric Data Monitoring & Analysis",
+        "super_feature_description": "Continuously monitors and analyzes real-time biometric data received from the wearable device, including heart rate, heart rate variability (HRV), sleep patterns, and skin conductance (for stress level detection). Employs algorithms to identify deviations from baseline and potential indicators of fatigue or stress.",
+        "feature": "Deviation Detection & Anomaly Identification",
+        "description": "Employs algorithms to compare real-time biometric data against the driver's personalized baseline, flagging significant deviations and potential indicators of fatigue, stress, or other health concerns. Anomaly detection triggers alerts and further analysis.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Driver Alerting & Recommendation System",
+        "super_feature_description": "Provides timely alerts and recommendations to the driver based on the analyzed biometric data. Alerts can be visual, auditory, or haptic. Recommendations may include suggesting breaks, adjusting driving speed, or modifying the route based on the driver's condition.",
+        "feature": "Real-time Alert Triggering",
+        "description": "Defines the rules and thresholds for triggering alerts based on biometric data analysis, considering factors like heart rate variability, skin conductance, and estimated fatigue levels.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Driver Alerting & Recommendation System",
+        "super_feature_description": "Provides timely alerts and recommendations to the driver based on the analyzed biometric data. Alerts can be visual, auditory, or haptic. Recommendations may include suggesting breaks, adjusting driving speed, or modifying the route based on the driver's condition.",
+        "feature": "Multi-Modal Alert Delivery",
+        "description": "Implements various alert delivery methods including visual cues on the vehicle's display, auditory warnings, and haptic feedback through the steering wheel or seat.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Driver Alerting & Recommendation System",
+        "super_feature_description": "Provides timely alerts and recommendations to the driver based on the analyzed biometric data. Alerts can be visual, auditory, or haptic. Recommendations may include suggesting breaks, adjusting driving speed, or modifying the route based on the driver's condition.",
+        "feature": "Personalized Recommendation Engine",
+        "description": "Develops an engine that provides tailored recommendations to the driver based on their individual biometric profile, driving history, and environmental conditions. Recommendations include suggesting rest stops, adjusting speed, or changing route.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Driver Alerting & Recommendation System",
+        "super_feature_description": "Provides timely alerts and recommendations to the driver based on the analyzed biometric data. Alerts can be visual, auditory, or haptic. Recommendations may include suggesting breaks, adjusting driving speed, or modifying the route based on the driver's condition.",
+        "feature": "Alert Escalation Protocol",
+        "description": "Establishes a protocol for escalating alerts if the driver doesn't respond to initial warnings, potentially leading to more intrusive alerts or preparing for emergency vehicle control.",
+        "feature_eval": {
+            "relationship": "Other",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Driver Alerting & Recommendation System",
+        "super_feature_description": "Provides timely alerts and recommendations to the driver based on the analyzed biometric data. Alerts can be visual, auditory, or haptic. Recommendations may include suggesting breaks, adjusting driving speed, or modifying the route based on the driver's condition.",
+        "feature": "Driver Acknowledgment & Override",
+        "description": "Allows the driver to acknowledge alerts and recommendations, with the option to override non-critical suggestions based on their perceived state and driving conditions. Override actions are logged for analysis.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Automated Vehicle Control (Emergency Override)",
+        "super_feature_description": "In critical situations where the driver's health severely deteriorates (e.g., detected heart attack, loss of consciousness), the system can initiate an emergency override, safely bringing the vehicle to a controlled stop. This includes activating hazard lights, initiating communication with emergency services, and unlocking the doors.",
+        "feature": "Emergency Stop Initiation",
+        "description": "Triggers the emergency override sequence based on critical health data thresholds (e.g., heart attack detection, confirmed loss of consciousness).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Automated Vehicle Control (Emergency Override)",
+        "super_feature_description": "In critical situations where the driver's health severely deteriorates (e.g., detected heart attack, loss of consciousness), the system can initiate an emergency override, safely bringing the vehicle to a controlled stop. This includes activating hazard lights, initiating communication with emergency services, and unlocking the doors.",
+        "feature": "Controlled Vehicle Deceleration",
+        "description": "Safely decelerates the vehicle to a complete stop, prioritizing passenger safety and minimizing the risk of collisions with other vehicles.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Automated Vehicle Control (Emergency Override)",
+        "super_feature_description": "In critical situations where the driver's health severely deteriorates (e.g., detected heart attack, loss of consciousness), the system can initiate an emergency override, safely bringing the vehicle to a controlled stop. This includes activating hazard lights, initiating communication with emergency services, and unlocking the doors.",
+        "feature": "Hazard Light Activation",
+        "description": "Automatically activates hazard lights to alert surrounding vehicles to the emergency situation.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Automated Vehicle Control (Emergency Override)",
+        "super_feature_description": "In critical situations where the driver's health severely deteriorates (e.g., detected heart attack, loss of consciousness), the system can initiate an emergency override, safely bringing the vehicle to a controlled stop. This includes activating hazard lights, initiating communication with emergency services, and unlocking the doors.",
+        "feature": "Emergency Services Notification",
+        "description": "Automatically contacts emergency services (e.g., ambulance, police) providing the vehicle's location and driver's health status.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Automated Vehicle Control (Emergency Override)",
+        "super_feature_description": "In critical situations where the driver's health severely deteriorates (e.g., detected heart attack, loss of consciousness), the system can initiate an emergency override, safely bringing the vehicle to a controlled stop. This includes activating hazard lights, initiating communication with emergency services, and unlocking the doors.",
+        "feature": "Door Unlocking",
+        "description": "Unlocks all vehicle doors to facilitate access for emergency responders.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Data Logging & Reporting",
+        "super_feature_description": "Records and stores biometric data, driving behavior, and system events for historical analysis and reporting. Provides drivers and authorized personnel (e.g., fleet managers) with access to detailed reports on driver health, fatigue patterns, and the frequency of alerts and interventions.",
+        "feature": "Biometric Data Logging",
+        "description": "Records raw biometric data (heart rate, stress levels, etc.) collected from wearable devices, storing it securely with timestamps.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Data Logging & Reporting",
+        "super_feature_description": "Records and stores biometric data, driving behavior, and system events for historical analysis and reporting. Provides drivers and authorized personnel (e.g., fleet managers) with access to detailed reports on driver health, fatigue patterns, and the frequency of alerts and interventions.",
+        "feature": "Driving Behavior Data Logging",
+        "description": "Captures driving-related data, including speed, acceleration, braking patterns, and location information, associated with the biometric data.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Data Logging & Reporting",
+        "super_feature_description": "Records and stores biometric data, driving behavior, and system events for historical analysis and reporting. Provides drivers and authorized personnel (e.g., fleet managers) with access to detailed reports on driver health, fatigue patterns, and the frequency of alerts and interventions.",
+        "feature": "System Event Logging",
+        "description": "Logs all system events, such as alerts triggered, recommendations issued, emergency overrides initiated, and device connection status.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 5,
+            "clarity": 5,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Data Logging & Reporting",
+        "super_feature_description": "Records and stores biometric data, driving behavior, and system events for historical analysis and reporting. Provides drivers and authorized personnel (e.g., fleet managers) with access to detailed reports on driver health, fatigue patterns, and the frequency of alerts and interventions.",
+        "feature": "Historical Data Analysis",
+        "description": "Provides tools and algorithms for analyzing logged data to identify trends, patterns, and anomalies in driver health and driving behavior over time.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Driver Guardian",
+        "root_feature_description": "Integrates with wearable devices to monitor the driver's vital signs, fatigue, and stress levels, providing recommendations for breaks or even assuming control of the vehicle if abnormal health patterns are detected.",
+        "super_feature": "Data Logging & Reporting",
+        "super_feature_description": "Records and stores biometric data, driving behavior, and system events for historical analysis and reporting. Provides drivers and authorized personnel (e.g., fleet managers) with access to detailed reports on driver health, fatigue patterns, and the frequency of alerts and interventions.",
+        "feature": "Report Generation & Access Control",
+        "description": "Generates customizable reports on driver health, fatigue, and system interventions, with secure access control for drivers, fleet managers, and authorized personnel.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Detection & Recording",
+        "super_feature_description": "Utilizes the device's microphone to continuously monitor and record audio input, identifying instances of laughter based on acoustic characteristics (frequency, intensity, rhythm). Raw audio data is processed to isolate and extract laugh events.",
+        "feature": "Microphone Access Management",
+        "description": "Handles requesting and managing microphone permissions from the user, ensuring compliance with privacy regulations and providing clear explanations for audio recording purposes.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Detection & Recording",
+        "super_feature_description": "Utilizes the device's microphone to continuously monitor and record audio input, identifying instances of laughter based on acoustic characteristics (frequency, intensity, rhythm). Raw audio data is processed to isolate and extract laugh events.",
+        "feature": "Real-time Audio Monitoring",
+        "description": "Continuously monitors audio input from the microphone, employing low-latency processing to detect potential laughter events without noticeable delay.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Detection & Recording",
+        "super_feature_description": "Utilizes the device's microphone to continuously monitor and record audio input, identifying instances of laughter based on acoustic characteristics (frequency, intensity, rhythm). Raw audio data is processed to isolate and extract laugh events.",
+        "feature": "Acoustic Feature Extraction",
+        "description": "Extracts relevant acoustic features from the audio stream, such as frequency, intensity, rhythm, and spectral characteristics, to distinguish laughter from other sounds.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 5,
+            "clarity": 5,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Detection & Recording",
+        "super_feature_description": "Utilizes the device's microphone to continuously monitor and record audio input, identifying instances of laughter based on acoustic characteristics (frequency, intensity, rhythm). Raw audio data is processed to isolate and extract laugh events.",
+        "feature": "Laugh Event Segmentation",
+        "description": "Segments the continuous audio stream into discrete laughter events, accurately identifying the start and end times of each laugh for subsequent analysis.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Detection & Recording",
+        "super_feature_description": "Utilizes the device's microphone to continuously monitor and record audio input, identifying instances of laughter based on acoustic characteristics (frequency, intensity, rhythm). Raw audio data is processed to isolate and extract laugh events.",
+        "feature": "Audio Data Storage (Temporary)",
+        "description": "Temporarily stores the segmented audio data of detected laughter events, allowing for further processing and analysis while minimizing storage requirements and respecting user privacy (with options for user deletion control).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Quantity Tracking",
+        "super_feature_description": "Counts the number of detected laugh instances within a defined time period (e.g., per minute, per conversation, per day). Provides a cumulative count of laugh events for user monitoring and analysis.",
+        "feature": "Laugh Instance Counter",
+        "description": "Implements a counting mechanism that increments each time a laugh is detected by the 'Laugh Detection & Recording' feature. This counter forms the basis for all quantity-related metrics.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Quantity Tracking",
+        "super_feature_description": "Counts the number of detected laugh instances within a defined time period (e.g., per minute, per conversation, per day). Provides a cumulative count of laugh events for user monitoring and analysis.",
+        "feature": "Time-Based Laugh Aggregation",
+        "description": "Groups laugh counts into predefined time intervals (e.g., minute, hour, day). Enables analysis of laugh frequency over time.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Quantity Tracking",
+        "super_feature_description": "Counts the number of detected laugh instances within a defined time period (e.g., per minute, per conversation, per day). Provides a cumulative count of laugh events for user monitoring and analysis.",
+        "feature": "Conversation-Based Laugh Aggregation",
+        "description": "Associates laugh instances with specific conversations or social interactions. Requires integration with other features tracking user interactions (e.g., messaging, video calls).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Quantity Tracking",
+        "super_feature_description": "Counts the number of detected laugh instances within a defined time period (e.g., per minute, per conversation, per day). Provides a cumulative count of laugh events for user monitoring and analysis.",
+        "feature": "Cumulative Laugh Tracking",
+        "description": "Maintains a running total of all detected laugh instances over a user-defined period (e.g., lifetime, month, week). Provides a long-term view of a user's laughter patterns.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Laugh Quantity Tracking",
+        "super_feature_description": "Counts the number of detected laugh instances within a defined time period (e.g., per minute, per conversation, per day). Provides a cumulative count of laugh events for user monitoring and analysis.",
+        "feature": "Laugh Rate Calculation",
+        "description": "Calculates the rate of laughter per unit of time (e.g., laughs per minute, laughs per hour). Allows comparison of laughter intensity across different periods and situations.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Authenticity Assessment",
+        "super_feature_description": "Analyzes the acoustic properties of detected laughs (e.g., duration, pitch variations, presence of voiced vs. unvoiced components) to differentiate between genuine, Duchenne laughs and forced or polite laughter. Employs machine learning models trained on laugh datasets.",
+        "feature": "Acoustic Feature Extraction",
+        "description": "Extracts relevant acoustic features from laugh recordings, including duration, pitch, intensity, and spectral characteristics.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Authenticity Assessment",
+        "super_feature_description": "Analyzes the acoustic properties of detected laughs (e.g., duration, pitch variations, presence of voiced vs. unvoiced components) to differentiate between genuine, Duchenne laughs and forced or polite laughter. Employs machine learning models trained on laugh datasets.",
+        "feature": "Duchenne Marker Identification",
+        "description": "Identifies key indicators of genuine laughter, specifically Duchenne markers such as orbicularis oculi muscle activation (crow's feet).",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Authenticity Assessment",
+        "super_feature_description": "Analyzes the acoustic properties of detected laughs (e.g., duration, pitch variations, presence of voiced vs. unvoiced components) to differentiate between genuine, Duchenne laughs and forced or polite laughter. Employs machine learning models trained on laugh datasets.",
+        "feature": "Forced Laugh Detection",
+        "description": "Detects characteristics of forced or polite laughter, such as shorter duration, higher pitch, and less variability.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Authenticity Assessment",
+        "super_feature_description": "Analyzes the acoustic properties of detected laughs (e.g., duration, pitch variations, presence of voiced vs. unvoiced components) to differentiate between genuine, Duchenne laughs and forced or polite laughter. Employs machine learning models trained on laugh datasets.",
+        "feature": "Machine Learning Model Training",
+        "description": "Trains machine learning models using labeled datasets of genuine and forced laughs to improve accuracy in authenticity assessment.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Authenticity Assessment",
+        "super_feature_description": "Analyzes the acoustic properties of detected laughs (e.g., duration, pitch variations, presence of voiced vs. unvoiced components) to differentiate between genuine, Duchenne laughs and forced or polite laughter. Employs machine learning models trained on laugh datasets.",
+        "feature": "Real-time Authenticity Scoring",
+        "description": "Provides a real-time score indicating the authenticity level of a detected laugh, based on extracted features and trained models.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 3,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Emotional Context Analysis",
+        "super_feature_description": "Integrates audio analysis with contextual information from the user's environment (e.g., ambient noise, voice activity of other speakers, detected keywords in speech) to infer the emotional context surrounding each laugh event (e.g., humor, amusement, nervousness, sarcasm). May leverage sentiment analysis of nearby speech.",
+        "feature": "Ambient Audio Analysis",
+        "description": "Analyzes background sounds and noise levels to provide environmental context during laugh events, distinguishing between social settings and solitary environments.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Emotional Context Analysis",
+        "super_feature_description": "Integrates audio analysis with contextual information from the user's environment (e.g., ambient noise, voice activity of other speakers, detected keywords in speech) to infer the emotional context surrounding each laugh event (e.g., humor, amusement, nervousness, sarcasm). May leverage sentiment analysis of nearby speech.",
+        "feature": "Voice Activity Detection (VAD)",
+        "description": "Detects and analyzes the presence and characteristics of other voices in the vicinity to determine the speaker's relation to the user and the nature of the interaction.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Emotional Context Analysis",
+        "super_feature_description": "Integrates audio analysis with contextual information from the user's environment (e.g., ambient noise, voice activity of other speakers, detected keywords in speech) to infer the emotional context surrounding each laugh event (e.g., humor, amusement, nervousness, sarcasm). May leverage sentiment analysis of nearby speech.",
+        "feature": "Keyword Spotting & Speech Analysis",
+        "description": "Identifies relevant keywords and phrases in surrounding speech to discern the topic and content being discussed, aiding in understanding the reason for laughter.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Emotional Context Analysis",
+        "super_feature_description": "Integrates audio analysis with contextual information from the user's environment (e.g., ambient noise, voice activity of other speakers, detected keywords in speech) to infer the emotional context surrounding each laugh event (e.g., humor, amusement, nervousness, sarcasm). May leverage sentiment analysis of nearby speech.",
+        "feature": "Sentiment Analysis of Nearby Speech",
+        "description": "Performs sentiment analysis on detected speech to gauge the emotional tone and overall sentiment of the conversation, linking it to the user's laughter.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Emotional Context Analysis",
+        "super_feature_description": "Integrates audio analysis with contextual information from the user's environment (e.g., ambient noise, voice activity of other speakers, detected keywords in speech) to infer the emotional context surrounding each laugh event (e.g., humor, amusement, nervousness, sarcasm). May leverage sentiment analysis of nearby speech.",
+        "feature": "Cross-Modal Contextual Integration",
+        "description": "Combines audio features, voice activity, keywords, and sentiment scores to build a holistic understanding of the environmental context surrounding the laugh event and infer the associated emotion.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Social Impact Evaluation",
+        "super_feature_description": "Evaluates the impact of the user's laughter on social interactions by analyzing the responses of other individuals present (e.g., laughter mirroring, changes in speech patterns, overall group sentiment). Requires simultaneous audio analysis and potentially video analysis (if available) of other participants.",
+        "feature": "Audience Laughter Detection",
+        "description": "Detects and records instances of laughter from individuals other than the primary user within the interaction environment.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Social Impact Evaluation",
+        "super_feature_description": "Evaluates the impact of the user's laughter on social interactions by analyzing the responses of other individuals present (e.g., laughter mirroring, changes in speech patterns, overall group sentiment). Requires simultaneous audio analysis and potentially video analysis (if available) of other participants.",
+        "feature": "Response Analysis",
+        "description": "Analyzes the immediate reactions and responses of other individuals to the user's laughter, including verbal and non-verbal cues.",
+        "feature_eval": {
+            "relationship": "Sub-feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Social Impact Evaluation",
+        "super_feature_description": "Evaluates the impact of the user's laughter on social interactions by analyzing the responses of other individuals present (e.g., laughter mirroring, changes in speech patterns, overall group sentiment). Requires simultaneous audio analysis and potentially video analysis (if available) of other participants.",
+        "feature": "Sentiment Shift Tracking",
+        "description": "Monitors changes in the overall sentiment of the group or conversation following the user's laughter, indicating its positive or negative influence.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Social Impact Evaluation",
+        "super_feature_description": "Evaluates the impact of the user's laughter on social interactions by analyzing the responses of other individuals present (e.g., laughter mirroring, changes in speech patterns, overall group sentiment). Requires simultaneous audio analysis and potentially video analysis (if available) of other participants.",
+        "feature": "Interaction Pattern Analysis",
+        "description": "Identifies and analyzes changes in interaction patterns (e.g., turn-taking, speech rate) among participants after the user's laughter.",
+        "feature_eval": {
+            "relationship": "Identical feature",
+            "relevance": 5,
+            "clarity": 4,
+            "feasibility": 5
+        }
+    },
+    {
+        "root_feture": "Laugh evaluation",
+        "root_feature_description": "The feature continually tracks the laughs of a user to count its quantity and assesses its authenticity, emotional context, and overall impact on social interactions.",
+        "super_feature": "Social Impact Evaluation",
+        "super_feature_description": "Evaluates the impact of the user's laughter on social interactions by analyzing the responses of other individuals present (e.g., laughter mirroring, changes in speech patterns, overall group sentiment). Requires simultaneous audio analysis and potentially video analysis (if available) of other participants.",
+        "feature": "Social Feedback Aggregation",
+        "description": "Aggregates and synthesizes the data gathered from audience laughter detection, response analysis, and sentiment shift tracking to provide a comprehensive evaluation of the user's laughter impact.",
+        "feature_eval": {
+            "relationship": "Sibling feature",
+            "relevance": 4,
+            "clarity": 4,
+            "feasibility": 4
+        }
+    }
+]
